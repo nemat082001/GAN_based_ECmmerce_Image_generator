@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## **Contact**
-For inquiries or contributions, contact **Your Name** at **your.email@example.com**.
+For inquiries or contributions, contact **Md Nematulah** at **mdnematullah.iitkgp@gmail.com**.
